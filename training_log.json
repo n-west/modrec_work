@@ -1,0 +1,241 @@
+
+{
+  'today': Tue Jul 12 16:19:23 2016
+  'model': cnn1 - v0
+  'model desc': a small cnn
+  'train time': 123.739592
+  'prediction time': 1.437495
+  'class_accuracy': 64.874
+  'train_loss': 0.90407
+}
+
+{
+  'today': Tue Jul 12 16:28:38 2016
+  'model': cnn1 - v0
+  'model desc': a small cnn
+  'train time': 971.30727
+  'prediction time': 1.396161
+  'class_accuracy': 67.566
+  'train_loss': 0.86995
+}
+
+{
+  'date': Tue Jul 12 16:45:09 2016
+  'model': west-conv-radio-modrec - v0
+  'model desc': my take on pure convnet, using 2d filters 1st
+  'train time': 2170.85662
+  'prediction time': 3.359465
+  'class_accuracy': 62.523
+  'train_loss': 0.96144
+}
+
+{
+  'date': Tue Jul 12 17:21:39 2016
+  'model': osh-conv-radio-modrec - v0
+  'model desc': oshea paper, convolutional radio mod rec network
+  'train time': 2053.463067
+  'prediction time': 3.015073
+  'class_accuracy': 66.539
+  'train_loss': 0.87378
+}
+
+{
+  'date': Tue Jul 12 17:57:32 2016
+  'model': single_conv_lstm - v0
+  'model desc': a conv mf with lstm
+  'train time': 2388.024411
+  'prediction time': 5.317269
+  'class_accuracy': 67.458
+  'train_loss': 0.91868
+}
+
+{
+  'date': Tue Jul 12 18:43:04 2016
+  'model': cldnn - v0
+  'model desc': 2 convolutions, lstm, 2 dense
+  'train time': 870.577617
+  'prediction time': 3.296078
+  'class_accuracy': 68.208
+  'train_loss': 0.93431
+}
+
+{
+  'date': Tue Jul 12 18:57:57 2016
+  'model': convmf - v0
+  'model desc': a conv mf with lstm
+  'train time': 1066.963477
+  'prediction time': 4.27477
+  'class_accuracy': 48.091
+  'train_loss': 1.98732
+}
+
+{
+  'date': Wed Jul 13 13:25:51 2016
+  'model': convmf - v1
+  'model desc': a conv mf with lstm
+  'train time': 1449.519662
+  'prediction time': 4.419206
+  'class_accuracy': 54.762
+  'train_loss': 1.45562
+}
+
+{
+  'date': Wed Jul 13 14:00:17 2016
+  'model': cldnn - v1
+  'model desc': 3 smallish convolutions, lstm, 2 dense
+  'train time': 1157.954301
+  'prediction time': 3.084348
+  'class_accuracy': 69.442
+  'train_loss': 0.87319
+}
+
+{
+  'date': Wed Jul 13 14:22:29 2016
+  'model': west-conv-radio-modrec - v1
+  'model desc': deeper convnet with 5 1x8 conv layers
+  'train time': 1608.764243
+  'prediction time': 4.735787
+  'class_accuracy': 63.788
+  'train_loss': 1.00831
+}
+
+{
+  'date': Wed Jul 13 14:53:23 2016
+  'model': west-conv-radio-modrec - v2
+  'model desc': deeper convnet with 4 1x8 conv layers
+  'train time': 1954.813915
+  'prediction time': 3.581069
+  'class_accuracy': 67.992
+  'train_loss': 0.85200
+}
+
+{
+  'date': Wed Jul 13 15:26:16 2016
+  'model': cldnn - v2
+  'model desc': 4 smallish convolutions, lstm, 2 dense
+  'train time': 1616.329294
+  'prediction time': 3.937785
+  'class_accuracy': 67.696
+  'train_loss': 0.96521
+}
+
+{
+  'date': Wed Jul 13 15:56:11 2016
+  'model': west-conv-radio-modrec - v2
+  'model desc': deeper convnet with 4 1x8 conv layers
+  'train time': 2756.685305
+  'prediction time': 3.565069
+  'class_accuracy': 68.122
+  'train_loss': 0.88852
+}
+
+{
+  'date': Wed Jul 13 16:42:26 2016
+  'model': cldnn - v4
+  'model desc': 3 smallish convolutions, lstm, 2 dense
+  'train time': 1055.000518
+  'prediction time': 4.561769
+  'class_accuracy': 69.056
+  'train_loss': 0.86488
+}
+
+{
+  'date': Wed Jul 13 17:05:09 2016
+  'model': cldnn - v5
+  'model desc': 3 50 1x8 convolutions, lstm, 2 dense
+  'train time': 755.253728
+  'prediction time': 2.790945
+  'class_accuracy': 68.007
+  'train_loss': 0.88488
+}
+
+{
+  'date': Wed Jul 13 17:28:34 2016
+  'model': cldnn - v6
+  'model desc': 3 64 1x8 convolutions, lstm(80), 2 dense
+  'train time': 1191.698306
+  'prediction time': 3.231299
+  'class_accuracy': 69.630
+  'train_loss': 0.89635
+}
+
+{
+  'date': Wed Jul 13 17:59:00 2016
+  'model': cldnn - v6
+  'model desc': 3 64 1x8 convolutions, lstm(80), 2 dense
+  'train time': 795.383153
+  'prediction time': 2.888998
+  'class_accuracy': 68.843
+  'train_loss': 0.84680
+}
+
+{
+  'date': Wed Jul 13 18:13:07 2016
+  'model': cldnn - v7
+  'model desc': 3 64 1x8 convolutions, lstm(40), 2 smaller dense
+  'train time': 1404.186587
+  'prediction time': 3.291237
+  'class_accuracy': 69.667
+  'train_loss': 0.83900
+}
+
+{
+  'date': Wed Jul 13 18:37:55 2016
+  'model': cldnn - v8
+  'model desc': 4 64 1x8 convolutions, lstm(40), 2 smaller dense
+  'train time': 1346.243065
+  'prediction time': 3.71174
+  'class_accuracy': 66.206
+  'train_loss': 1.00803
+}
+
+{
+  'date': Wed Jul 13 19:04:05 2016
+  'model': cldnn - v9
+  'model desc': 3 64 1x5 convolutions, lstm(40), 2 smaller dense
+  'train time': 814.279972
+  'prediction time': 3.66113
+  'class_accuracy': 69.395
+  'train_loss': 0.83997
+}
+
+{
+  'date': Wed Jul 13 19:23:13 2016
+  'model': cldnn - v10
+  'model desc': 3 64 1x5 convolutions, lstm(40), 2 smaller dense, 0.6 dropout
+  'train time': 799.741324
+  'prediction time': 3.67656
+  'class_accuracy': 68.229
+  'train_loss': 0.84945
+}
+
+{
+  'date': Wed Jul 13 19:37:31 2016
+  'model': cldnn - v10
+  'model desc': 3 64 1x8 convolutions, lstm(40), 2 smaller dense, 0.6 dropout
+  'train time': 1347.459907
+  'prediction time': 3.272524
+  'class_accuracy': 69.204
+  'train_loss': 0.83913
+}
+
+{
+  'date': Thu Sep 22 23:48:24 2016
+  'model': osh-conv-radio-modrec - v0
+  'model desc': oshea paper, convolutional radio mod rec network
+  'train time': 4284.853167
+  'prediction time': 10.76985
+  'class_accuracy': 61.705
+  'train_loss': 0.97495
+}
+
+{
+  'date': Fri Sep 23 01:03:10 2016
+  'model': osh-conv-radio-modrec - v0
+  'model desc': oshea paper, convolutional radio mod rec network
+  'train time': 7176.423107
+  'prediction time': 16.135769
+  'class_accuracy': 62.252
+  'train_loss': 0.95939
+}
+
